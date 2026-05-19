@@ -1,2 +1,2 @@
 # report
-json for resources
+Announcement Resources
