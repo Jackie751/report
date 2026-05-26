@@ -1,5 +1,688 @@
 [
   {
+    "cid": "0701",
+    "title": "[活动预告]【明日方舟 × 怪物猎人】「泡影苍霆」限时活动即将开启",
+    "tab": "1",
+    "month": "2026-05",
+    "date": "2026 // 05 / 26",
+    "ts": 1779764400.0,
+    "source_url": "https://ak.hypergryph.com/news/0701",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/01_588eacc53e541a9fe7bcea9dbb4860b3_9e20459a.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/588eacc53e541a9fe7bcea9dbb4860b3.jpg"
+      },
+      {
+        "type": "text",
+        "text": "一、【明日方舟 × 怪物猎人】，SideStory「泡影苍霆」活动关卡开启"
+      },
+      {
+        "type": "text",
+        "text": "活动时间： 06月01日 12:00 - 06月22日 03:59"
+      },
+      {
+        "type": "text",
+        "text": "解锁条件： 通关主线1-10"
+      },
+      {
+        "type": "text",
+        "text": "活动说明： 活动期间将开放「泡影苍霆」活动关卡，玩家可通过活动关卡作战、猎人笔记、完成相关活动任务以及【斑弥罗工坊】获取相关活动奖励"
+      },
+      {
+        "type": "text",
+        "text": "活动关卡将进行分段式开启："
+      },
+      {
+        "type": "text",
+        "text": "◆「竞逐苍霆」开启时间 ：06月01日 12:00 - 06月15日 03:59"
+      },
+      {
+        "type": "text",
+        "text": "◆「踏破泡影」开启时间 ：06月08日 16:00 - 06月15日 03:59"
+      },
+      {
+        "type": "text",
+        "text": "◆本次活动开启时间存在提前或延迟的可能，详情请关注后续公告"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/02_4318129c9b046f3c7238509c097d66a1_8d917c4b.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/4318129c9b046f3c7238509c097d66a1.jpg"
+      },
+      {
+        "type": "text",
+        "text": "【猎人笔记】"
+      },
+      {
+        "type": "text",
+        "text": "活动说明： 活动期间，玩家可通过活动关卡作战解锁全部特殊情报获取奖励"
+      },
+      {
+        "type": "text",
+        "text": "主要奖励： 活动家具"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/03_dd614cf9875b86cbb7d62ee53b85f097_beee3129.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/dd614cf9875b86cbb7d62ee53b85f097.jpg"
+      },
+      {
+        "type": "text",
+        "text": "【将军之令】"
+      },
+      {
+        "type": "text",
+        "text": "活动说明： 活动期间，玩家可通过活动关卡作战完成【将军之令】中相关任务获取奖励"
+      },
+      {
+        "type": "text",
+        "text": "主要奖励： 活动干员 【★：罗德岛隐秘队】 、模组养成材料、「炼金素材」等"
+      },
+      {
+        "type": "text",
+        "text": "【斑弥罗工坊】"
+      },
+      {
+        "type": "text",
+        "text": "开放时间： 06月01日 12:00 - 06月22日 03:59"
+      },
+      {
+        "type": "text",
+        "text": "兑换说明： 活动期间，玩家可通过活动关卡作战及【将军之令】获取「炼金素材」，消耗「炼金素材」进行炼金获取奖励"
+      },
+      {
+        "type": "text",
+        "text": "主要物品： 【罗德岛隐秘队】信物 、 【泡影国起居室】家具（部分） 、 寻访凭证 、模组养成材料、高级养成素材、龙门币、作战记录、家具零件等"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/04_fe3ec19af152e8e9b391f6e75cef16ac_5bbaa637.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/fe3ec19af152e8e9b391f6e75cef16ac.jpg"
+      },
+      {
+        "type": "text",
+        "text": "二、【幽境狩人】限时寻访开启"
+      },
+      {
+        "type": "text",
+        "text": "活动时间： 06月01日 12:00 - 06月15日 03:59"
+      },
+      {
+        "type": "text",
+        "text": "活动说明： 活动期间【幽境狩人】限时寻访开启，该寻访中以下干员获得概率提升"
+      },
+      {
+        "type": "text",
+        "text": "★★★★★★：焰狐龙梓兰（占6★出率的50%）"
+      },
+      {
+        "type": "text",
+        "text": "★★★★★：雷狼龙S空爆（占5★出率的50%）"
+      },
+      {
+        "type": "text",
+        "text": "注意："
+      },
+      {
+        "type": "text",
+        "text": "◆【幽境狩人】寻访为【泡影迷踪干员寻访】"
+      },
+      {
+        "type": "text",
+        "text": "◆新增干员【焰狐龙梓兰】、【雷狼龙S空爆】为【泡影迷踪干员寻访】限时寻访干员，以上角色仅在【泡影迷踪干员寻访】寻访开启期间可以获取，不会加入任何【标准寻访】及【中坚寻访】"
+      },
+      {
+        "type": "text",
+        "text": "◆在【泡影迷踪干员寻访】中每120次寻访必定能获得干员【焰狐龙梓兰】， 每次获得干员【焰狐龙梓兰】后重新累计次数"
+      },
+      {
+        "type": "text",
+        "text": "◆在【泡影迷踪干员寻访】中，如果前50次寻访没有获得本期出率上升的5星干员，则下一次招募到的5星干员必定为本期出率上升的5星干员"
+      },
+      {
+        "type": "text",
+        "text": "◆【泡影迷踪干员寻访】详细说明请参照相关卡池公告说明"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/05_3a82778ae28a55d244d05c61f5797ad0_ada0b26b.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/3a82778ae28a55d244d05c61f5797ad0.jpg"
+      },
+      {
+        "type": "text",
+        "text": "三、【明日方舟 × 怪物猎人】，签到活动开启"
+      },
+      {
+        "type": "text",
+        "text": "活动说明： 活动期间内，玩家累计活动签到10日可获得 [弓吟空跃寻访凭证]*2 、活动头像、活动家具、合成玉等奖励"
+      },
+      {
+        "type": "text",
+        "text": "累计签到第一日：应急理智浓缩液*1、 弓吟空跃寻访凭证*1"
+      },
+      {
+        "type": "text",
+        "text": "累计签到第二日：数据增补条*10、合成玉*200"
+      },
+      {
+        "type": "text",
+        "text": "累计签到第三日：中级作战记录*20、加急许可*5"
+      },
+      {
+        "type": "text",
+        "text": "累计签到第四日：家具零件*300、合成玉*200"
+      },
+      {
+        "type": "text",
+        "text": "累计签到第五日：赤金*20、 头像“猎手烤肉”*1"
+      },
+      {
+        "type": "text",
+        "text": "累计签到第六日：高级作战记录*10、 家具【户外明火烧烤架】*1"
+      },
+      {
+        "type": "text",
+        "text": "累计签到第七日：龙门币*30000、合成玉*200"
+      },
+      {
+        "type": "text",
+        "text": "累计签到第八日：数据增补仪*3、 弓吟空跃寻访凭证*1"
+      },
+      {
+        "type": "text",
+        "text": "累计签到第九日：招聘许可*5、 家具【硬质合金收纳箱】*1"
+      },
+      {
+        "type": "text",
+        "text": "累计签到第十日：技巧概要·卷3*8、模组数据块*1"
+      },
+      {
+        "type": "text",
+        "text": "◆[弓吟空跃寻访凭证]仅可用于【泡影迷踪干员寻访】寻访中进行一次十连寻访"
+      },
+      {
+        "type": "text",
+        "text": "◆[弓吟空跃寻访凭证] 过期时间为：2026年06月15日03:59"
+      },
+      {
+        "type": "text",
+        "text": "◆本次签到活动中领取的“应急理智浓缩液”到期时间请以游戏内显示为准"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/06_44268fd5d329222153286188f9fd37c9_42888092.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/44268fd5d329222153286188f9fd37c9.jpg"
+      },
+      {
+        "type": "text",
+        "text": "四、【明日方舟 × 怪物猎人】，新干员登场"
+      },
+      {
+        "type": "text",
+        "text": "新增干员："
+      },
+      {
+        "type": "text",
+        "text": "★★★★★★：焰狐龙梓兰"
+      },
+      {
+        "type": "text",
+        "text": "★★★★★：雷狼龙S空爆"
+      },
+      {
+        "type": "text",
+        "text": "★：罗德岛隐秘队"
+      },
+      {
+        "type": "text",
+        "text": "◆新增干员【罗德岛隐秘队】仅在本次「泡影苍霆」活动中获取，不会加入【幽境狩人】及任何【标准寻访】及【中坚寻访】"
+      },
+      {
+        "type": "text",
+        "text": "◆本次活动关卡内以上新增干员信赖获取提升"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/07_74470913804e50454606222f33da0319_33cb90bf.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/74470913804e50454606222f33da0319.jpg"
+      },
+      {
+        "type": "text",
+        "text": "五、【明日方舟 × 怪物猎人】，新装限时上架"
+      },
+      {
+        "type": "text",
+        "text": "活动时间： 06月01日 12:00 - 06月29日 03:59"
+      },
+      {
+        "type": "text",
+        "text": "活动说明： 活动期间以下干员新增时装将在时装商店上架并限时贩售："
+      },
+      {
+        "type": "text",
+        "text": "◆【CROSSOVER】系列 - 露营时间喵！- 罗德岛隐秘队"
+      },
+      {
+        "type": "text",
+        "text": "◆【明日方舟 × 怪物猎人】时装不可使用【时装自选凭证】道具兑换"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/08_ceeb1945080cd1293662e2b93275440b_110ab397.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/ceeb1945080cd1293662e2b93275440b.jpg"
+      },
+      {
+        "type": "text",
+        "text": "六、【明日方舟 × 怪物猎人】，复刻时装限时上架"
+      },
+      {
+        "type": "text",
+        "text": "活动说明： 活动期间以下干员复刻时装将在时装商店上架并限时贩售："
+      },
+      {
+        "type": "text",
+        "text": "◆【CROSSOVER】系列 - 跃上街头 - 泰拉大陆调查团"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/09_afc51d4af13bc5d3d52fd8aa428b3262_827f8a15.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/afc51d4af13bc5d3d52fd8aa428b3262.jpg"
+      },
+      {
+        "type": "text",
+        "text": "七、【明日方舟 × 怪物猎人】，组合包限时上架"
+      },
+      {
+        "type": "text",
+        "text": "售卖时间： 06月01日 12:00 - 06月29日 03:59"
+      },
+      {
+        "type": "text",
+        "text": "活动说明： 活动期间，采购中心将限时售卖以下组合包"
+      },
+      {
+        "type": "text",
+        "text": "[水芸仿绘礼包]"
+      },
+      {
+        "type": "text",
+        "text": "组合包内容： 合成玉*200、 动态头像“很好奇的猫”*1 、 动态头像“很调皮的狗”*1"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/10_fc0af8dcee94f998a31f4d0f1539b936_e4c93ee7.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/fc0af8dcee94f998a31f4d0f1539b936.jpg"
+      },
+      {
+        "type": "text",
+        "text": "[水芸珍藏礼包]"
+      },
+      {
+        "type": "text",
+        "text": "组合包内容： 合成玉*1600、 名片主题【一起去狩猎喵！】*1"
+      },
+      {
+        "type": "text",
+        "text": "◆该名片主题可切换不同样式并使用：单手剑、双剑、大剑、太刀、大锤、狩猎笛、长枪、铳枪、盾斧、斩斧、操虫棍、轻弩炮、重弩炮、弓"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/11_c938986566da39f25ce5f579c553fd56_a27d8f76.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/c938986566da39f25ce5f579c553fd56.jpg"
+      },
+      {
+        "type": "text",
+        "text": "八、新装限时上架"
+      },
+      {
+        "type": "text",
+        "text": "◆【时代】系列 - 失焦 - 忍冬"
+      },
+      {
+        "type": "text",
+        "text": "◆【成就之星】系列 - 蔷薇之谜 - 刺玫"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/12_77a2d146bdabe4963da9d0b1d659f76b_27c93c1e.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/77a2d146bdabe4963da9d0b1d659f76b.jpg"
+      },
+      {
+        "type": "text",
+        "text": "◆【忒斯特收藏】系列 - 幽然灵竹 - 泡普卡"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/13_31c46fb457da2d55a263b05431289359_89e9918c.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/31c46fb457da2d55a263b05431289359.jpg"
+      },
+      {
+        "type": "text",
+        "text": "九、复刻时装限时上架"
+      },
+      {
+        "type": "text",
+        "text": "活动说明： 活动期间以下干员时装将在时装商店上架并限时贩售："
+      },
+      {
+        "type": "text",
+        "text": "◆【时代】系列 - 雪霁 - 铃兰"
+      },
+      {
+        "type": "text",
+        "text": "◆【时代】系列 - 月宵 - 薄绿"
+      },
+      {
+        "type": "text",
+        "text": "◆【时代】系列 - 别枝 - 稀音"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/14_8929161a0f059288bb4968d822380511_9ed965ea.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/8929161a0f059288bb4968d822380511.jpg"
+      },
+      {
+        "type": "text",
+        "text": "◆【时代】系列 - 栖息 - 淬羽赫默"
+      },
+      {
+        "type": "text",
+        "text": "◆【罗德厨房】系列 - 甜品大奖 - 隐现"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/15_bbc9f6f1dc90d9476c3718afdae6eccb_bdc50f9d.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/bbc9f6f1dc90d9476c3718afdae6eccb.jpg"
+      },
+      {
+        "type": "text",
+        "text": "十、新增【泡影国起居室】主题家具，限时获取"
+      },
+      {
+        "type": "text",
+        "text": "活动说明： 活动期间新增活动限定家具【泡影国起居室】系列"
+      },
+      {
+        "type": "text",
+        "text": "获取方式："
+      },
+      {
+        "type": "text",
+        "text": "◆「泡影苍霆」活动奖励及兑换（部分）"
+      },
+      {
+        "type": "text",
+        "text": "◆家具商店限时售卖（部分）"
+      },
+      {
+        "type": "text",
+        "text": "◆ 家具商店售卖时间：06月01日 12:00 - 06月15日 03:59"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/16_e57052c8b8788d9adace2d974ed51042_21da1ddd.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/e57052c8b8788d9adace2d974ed51042.jpg"
+      },
+      {
+        "type": "text",
+        "text": "十一、组合包限时上架"
+      },
+      {
+        "type": "text",
+        "text": "[狩猎特训组合包]"
+      },
+      {
+        "type": "text",
+        "text": "组合包内容： 高级资深干员特训邀请函*1 、资深干员特训邀请函*2"
+      },
+      {
+        "type": "text",
+        "text": "高级资深干员特训邀请函： 使用该邀请函后可选择一名任意等级，但未晋升至精英阶段2的6星干员直接晋升至精英阶段2，等级1。干员晋升后不会返还已投入的养成资源。"
+      },
+      {
+        "type": "text",
+        "text": "[追猎技艺组合包]"
+      },
+      {
+        "type": "text",
+        "text": "组合包内容： 高级资深干员特训装置*1 、资深干员特训装置*2"
+      },
+      {
+        "type": "text",
+        "text": "高级资深干员特训装置 ：使用该特训装置后可选择一名已晋升至精英阶段2的6星干员直接升至精英阶段2，等级90。干员升级后不会返还已投入的养成资源。"
+      },
+      {
+        "type": "text",
+        "text": "[猎人的补给箱]"
+      },
+      {
+        "type": "text",
+        "text": "组合包内容： 至纯源石*16、龙门币*700000"
+      },
+      {
+        "type": "text",
+        "text": "[狙击芯片礼包]"
+      },
+      {
+        "type": "text",
+        "text": "组合包内容： 狙击双芯片*4、狙击芯片*5、技巧概要·卷3*45、技巧概要·卷2*25、技巧概要·卷1*10"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/17_3cd80a7900cdcd92591c0eef53fd7580_487c8d1a.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/3cd80a7900cdcd92591c0eef53fd7580.jpg"
+      },
+      {
+        "type": "text",
+        "text": "[寻踪相伴组合包]"
+      },
+      {
+        "type": "text",
+        "text": "组合包内容： 至纯源石* 24 、 十连寻访凭证*2、龙门币*200000、高级作战记录*30、芯片助剂*2、模组数据块*4"
+      },
+      {
+        "type": "text",
+        "text": "[满载而归组合包]"
+      },
+      {
+        "type": "text",
+        "text": "组合包内容： 合成玉*5000、芯片助剂*2 、龙门币*100000、技巧概要·卷1*80、模组数据块*2"
+      },
+      {
+        "type": "text",
+        "text": "[露华远行纪念礼包]"
+      },
+      {
+        "type": "text",
+        "text": "组合包内容： 合成玉*600、 头像“寻火之叶”*1"
+      },
+      {
+        "type": "text",
+        "text": "注意： 此前已购买过[露华远行纪念礼包]的玩家无法再次购买该礼包"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/18_d8c2362334c855306c7243f56c375b3f_de55f180.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/d8c2362334c855306c7243f56c375b3f.jpg"
+      },
+      {
+        "type": "text",
+        "text": "[结营出猎组合包]"
+      },
+      {
+        "type": "text",
+        "text": "组合包内容： 至纯源石*10、合成玉*2500、 主题场景【结营】*1 、 界面主题【出猎】*1"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/19_c86589f200e338f86c2fe858cfc3bad5_c8ac6f66.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/c86589f200e338f86c2fe858cfc3bad5.jpg"
+      },
+      {
+        "type": "text",
+        "text": "十二、采购中心【高级凭证区】&【通用凭证区】可兑换内容追加"
+      },
+      {
+        "type": "text",
+        "text": "更新时间： 06月01日 12:00"
+      },
+      {
+        "type": "text",
+        "text": "活动内容： 采购中心凭证交易所【高级凭证区】&【通用凭证区】将新增以下内容可供兑换："
+      },
+      {
+        "type": "text",
+        "text": "◆【闪耀阶梯】系列 - 倾声歌唱 - 松果"
+      },
+      {
+        "type": "text",
+        "text": "◆【斗争血脉】系列 - 专业人士 - 斑点"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_0701_%5B%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%5D%E3%80%90%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F_%C3%97_%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E3%80%91%E3%80%8C%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86%E3%80%8D%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/20_8f78931932221af630f682b9dbe3708e_a6c8e09c.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/8f78931932221af630f682b9dbe3708e.jpg"
+      },
+      {
+        "type": "text",
+        "text": "十三、「阵地足球锦标」限时活动开启"
+      },
+      {
+        "type": "text",
+        "text": "关卡开放时间： 06月08日 16:00 - 06月22日 03:59"
+      },
+      {
+        "type": "text",
+        "text": "解锁条件： 通关主线 1-10"
+      },
+      {
+        "type": "text",
+        "text": "活动说明： 活动期间将开放「阵地足球锦标」限时活动，玩家可通过活动关卡作战获取【锦标积分券】，提升【锦标奖杯】等级获取相应活动奖励"
+      },
+      {
+        "type": "text",
+        "text": "【锦标奖杯】开放时间： 06月08日 16:00 - 06月25日 03:59"
+      },
+      {
+        "type": "text",
+        "text": "【锦标奖杯】主要奖励： 时装 【玛尔特系列 - 跃动节拍 - 钼铅】 、模组养成材料、高级养成素材、作战记录、龙门币等"
+      },
+      {
+        "type": "text",
+        "text": "◆详细活动玩法介绍请参照官方自媒体相关内容"
+      },
+      {
+        "type": "text",
+        "text": "更多活动内容请持续关注《明日方舟》游戏内公告及官方公告。"
+      },
+      {
+        "type": "text",
+        "text": "【明日方舟】运营组"
+      },
+      {
+        "type": "text",
+        "text": "2026年05月26日"
+      }
+    ]
+  },
+  {
+    "cid": "7377",
+    "title": "[泡影迷踪干员寻访]【幽境狩人】限时寻访即将开启",
+    "tab": "1",
+    "month": "2026-05",
+    "date": "2026 // 05 / 26",
+    "ts": 1779764400.0,
+    "source_url": "https://ak.hypergryph.com/news/7377",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/Jackie751/report/main/test/%E6%B4%BB%E5%8A%A8/2026___05___26_7377_%5B%E6%B3%A1%E5%BD%B1%E8%BF%B7%E8%B8%AA%E5%B9%B2%E5%91%98%E5%AF%BB%E8%AE%BF%5D%E3%80%90%E5%B9%BD%E5%A2%83%E7%8B%A9%E4%BA%BA%E3%80%91%E9%99%90%E6%97%B6%E5%AF%BB%E8%AE%BF%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF/01_fe3ec19af152e8e9b391f6e75cef16ac_5bbaa637.jpg",
+        "original_src": "https://web.hycdn.cn/upload/image/20260525/fe3ec19af152e8e9b391f6e75cef16ac.jpg"
+      },
+      {
+        "type": "text",
+        "text": "活动时间： 06月01日 12:00 - 06月15日 03:59"
+      },
+      {
+        "type": "text",
+        "text": "活动说明： 活动期间【幽境狩人】限时寻访开启，该寻访中以下干员出现率上升"
+      },
+      {
+        "type": "text",
+        "text": "★★★★★★：焰狐龙梓兰（占6★出率的50%）"
+      },
+      {
+        "type": "text",
+        "text": "★★★★★：雷狼龙S空爆（占5★出率的50%）"
+      },
+      {
+        "type": "text",
+        "text": "注意："
+      },
+      {
+        "type": "text",
+        "text": "◆【幽境狩人】寻访为【泡影迷踪干员寻访】"
+      },
+      {
+        "type": "text",
+        "text": "◆新增干员【焰狐龙梓兰】、【雷狼龙S空爆】为【泡影迷踪干员寻访】限时寻访干员，以上角色仅在【泡影迷踪干员寻访】寻访开启期间可以获取，不会加入任何【标准寻访】及【中坚寻访】"
+      },
+      {
+        "type": "text",
+        "text": "【泡影迷踪干员寻访】抽取概率公示："
+      },
+      {
+        "type": "text",
+        "text": "六星干员出率：2%"
+      },
+      {
+        "type": "text",
+        "text": "五星干员出率：8%"
+      },
+      {
+        "type": "text",
+        "text": "四星干员出率：50%"
+      },
+      {
+        "type": "text",
+        "text": "三星干员出率：40%"
+      },
+      {
+        "type": "text",
+        "text": "【泡影迷踪干员寻访】说明"
+      },
+      {
+        "type": "text",
+        "text": "◆在【泡影迷踪干员寻访】中每120次寻访必定能获得干员【焰狐龙梓兰】， 每次获得干员【焰狐龙梓兰】后重新累计次数 。"
+      },
+      {
+        "type": "text",
+        "text": "◆在【泡影迷踪干员寻访】中，如果前50次寻访没有获得本期出率上升的5星干员，则下一次招募到的5星干员必定为本期出率上升的5星干员。"
+      },
+      {
+        "type": "text",
+        "text": "◆在【泡影迷踪干员寻访】中，如果连续50次没有获得6星干员，则下一次获得6星干员的概率将从原本的2%提升至4%，如果该次还没有寻访到6星干员，则下一次寻访获得6星的概率由4%提升到6%。依此类推，每次提高2%获得6星干员的概率，直至达到100%时必定获得6星干员。"
+      },
+      {
+        "type": "text",
+        "text": "◆在【泡影迷踪干员寻访】中没有获得6星干员的累计次数不会累计到其他任意寻访，该次数会因为【泡影迷踪干员寻访】的结束而清零。因为累计次数而增加的获得概率，不会应用于接下来其他任意寻访。"
+      },
+      {
+        "type": "text",
+        "text": "更多活动内容请持续关注《明日方舟》游戏内公告及官方公告。"
+      },
+      {
+        "type": "text",
+        "text": "【明日方舟】运营组"
+      },
+      {
+        "type": "text",
+        "text": "2026年05月26日"
+      }
+    ]
+  },
+  {
     "cid": "6255",
     "title": "[明日方舟]05月22日16:00闪断更新公告",
     "tab": "0",
